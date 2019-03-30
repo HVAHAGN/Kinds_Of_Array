@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Two_dimensional", "Array Two_dimensional\Array Two_dimensional.csproj", "{2585CE30-7FB8-4A75-B518-3C27CA259A44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMultiDim", "ArrayMultiDim\ArrayMultiDim.csproj", "{456293C4-C8AD-4D94-9278-693B1F7A353D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2585CE30-7FB8-4A75-B518-3C27CA259A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2585CE30-7FB8-4A75-B518-3C27CA259A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2585CE30-7FB8-4A75-B518-3C27CA259A44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{456293C4-C8AD-4D94-9278-693B1F7A353D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456293C4-C8AD-4D94-9278-693B1F7A353D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456293C4-C8AD-4D94-9278-693B1F7A353D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456293C4-C8AD-4D94-9278-693B1F7A353D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
