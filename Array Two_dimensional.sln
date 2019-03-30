@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged_Array", "Jagged_Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{A7FB1C3E-1C96-4FBB-B2FC-900C5380F3AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassArray", "ClassArray\ClassArray.csproj", "{EFE20997-FE67-4BBE-B700-15DA2FDE362C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A7FB1C3E-1C96-4FBB-B2FC-900C5380F3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7FB1C3E-1C96-4FBB-B2FC-900C5380F3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7FB1C3E-1C96-4FBB-B2FC-900C5380F3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE20997-FE67-4BBE-B700-15DA2FDE362C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE20997-FE67-4BBE-B700-15DA2FDE362C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE20997-FE67-4BBE-B700-15DA2FDE362C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE20997-FE67-4BBE-B700-15DA2FDE362C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
