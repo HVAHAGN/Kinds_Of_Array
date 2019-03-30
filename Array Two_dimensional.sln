@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassArray", "ClassArray\ClassArray.csproj", "{EFE20997-FE67-4BBE-B700-15DA2FDE362C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarArrays", "VarArrays\VarArrays.csproj", "{144F6EC3-E7AB-4393-B57A-E0FDAC9F87D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EFE20997-FE67-4BBE-B700-15DA2FDE362C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFE20997-FE67-4BBE-B700-15DA2FDE362C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFE20997-FE67-4BBE-B700-15DA2FDE362C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{144F6EC3-E7AB-4393-B57A-E0FDAC9F87D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144F6EC3-E7AB-4393-B57A-E0FDAC9F87D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144F6EC3-E7AB-4393-B57A-E0FDAC9F87D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144F6EC3-E7AB-4393-B57A-E0FDAC9F87D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
